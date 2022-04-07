@@ -1,10 +1,4 @@
-/* 
- * [2020] Northeastern University - Network Programming
- * [2019] Signet Lab - Programming for ICT
- * All Rights Reserved.
- * 
- * Authors Filippo Campagnaro and Michele Polese 
- */
+
 
 #include <udp-server.h>
 #include <string.h>
