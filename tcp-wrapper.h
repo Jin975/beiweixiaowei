@@ -1,9 +1,4 @@
-	/*
- * [2020] Northeastern University - Network Programming
- * All Rights Reserved.
- * 
- * Author Michele Polese and Pragadeesh Kumar Nithyakumar 
-*/
+
 
 
 #ifndef H_TCP_WRAPPER
