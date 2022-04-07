@@ -1,9 +1,3 @@
-/*
- * [2020] Northeastern University - Network Programming
- * All Rights Reserved.
- * 
- * Author Michele Polese and Pragadeesh Kumar Nithyakumar 
-*/
 
 #include "socket-wrapper.h"
 
